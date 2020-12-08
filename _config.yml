@@ -2,7 +2,5 @@
 title: Your awesome title
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here.
-theme: minima
-=======
 theme: jekyll-theme-minimal
->>>>>>> 88cdecd970056e715173bb851c3fbc30fda8d55d
+=======
