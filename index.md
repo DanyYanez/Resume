@@ -40,8 +40,8 @@ Boston
 - **09/2018 - 12/2018	Sushi Cook**
 Fat Baby 
 Boston
-- Roll, cut and plate sushi 
-- Prep for station 
+	- Roll, cut and plate sushi 
+	- Prep for station 
  
 - **04/2018 - 07/2019	Line Cook**
 Lincoln Tavern 
