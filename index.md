@@ -7,7 +7,7 @@
 ## **Skills in Technology:**
 	       	       
 - Languages: Python, Bash, C++
-- Software: Windows, MacOS, Git, Travis CI, Heroku, 
+- Software: Windows, MacOS, Git, Travis CI, Heroku, Jenkins, Docker 
 
 ## **Languages Spoken:**
 
